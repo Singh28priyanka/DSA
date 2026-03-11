@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Singh28priyanka/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -15,6 +16,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -36,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
