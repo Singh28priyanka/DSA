@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Singh28priyanka/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
