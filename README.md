@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Singh28priyanka/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Array
@@ -31,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
