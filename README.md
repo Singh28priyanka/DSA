@@ -21,6 +21,7 @@
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
