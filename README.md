@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Singh28priyanka/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Singh28priyanka/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
