@@ -24,6 +24,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Singh28priyanka/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | [0162-find-peak-element](https://github.com/Singh28priyanka/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Singh28priyanka/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
