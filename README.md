@@ -65,6 +65,7 @@
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,10 +78,15 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Singh28priyanka/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Singh28priyanka/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Singh28priyanka/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
