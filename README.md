@@ -98,4 +98,8 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Singh28priyanka/DSA/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Singh28priyanka/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Singh28priyanka/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
