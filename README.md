@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0066-plus-one](https://github.com/Singh28priyanka/DSA/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Singh28priyanka/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Singh28priyanka/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Singh28priyanka/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -65,6 +66,7 @@
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Singh28priyanka/DSA/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Singh28priyanka/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Singh28priyanka/DSA/tree/main/0509-fibonacci-number/) | Easy |
