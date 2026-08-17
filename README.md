@@ -10,6 +10,7 @@
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Singh28priyanka/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Singh28priyanka/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Singh28priyanka/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +39,7 @@
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 <!---LeetCode Topics End-->
