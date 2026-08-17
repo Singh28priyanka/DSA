@@ -27,6 +27,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Singh28priyanka/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Singh28priyanka/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +74,7 @@
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Singh28priyanka/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
