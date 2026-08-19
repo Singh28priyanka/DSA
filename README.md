@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Singh28priyanka/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Array
@@ -37,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -49,6 +51,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
