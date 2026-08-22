@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singh28priyanka/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Singh28priyanka/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -16,6 +17,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Singh28priyanka/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/Singh28priyanka/DSA/tree/main/0066-plus-one/) | Easy |
@@ -139,4 +141,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Singh28priyanka/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
