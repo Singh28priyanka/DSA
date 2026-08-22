@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Singh28priyanka/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
@@ -34,6 +35,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Singh28priyanka/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
@@ -123,6 +125,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Singh28priyanka/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Singh28priyanka/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
