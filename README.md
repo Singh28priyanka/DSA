@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/Singh28priyanka/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Singh28priyanka/DSA/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Singh28priyanka/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -47,6 +48,7 @@
 | [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Singh28priyanka/DSA/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Singh28priyanka/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -61,6 +63,7 @@
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Singh28priyanka/DSA/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -90,6 +93,7 @@
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/Singh28priyanka/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Singh28priyanka/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Binary Search
@@ -98,6 +102,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Singh28priyanka/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/Singh28priyanka/DSA/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Singh28priyanka/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -160,4 +165,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Singh28priyanka/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
