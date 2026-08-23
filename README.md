@@ -30,6 +30,7 @@
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singh28priyanka/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/Singh28priyanka/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singh28priyanka/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Singh28priyanka/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Singh28priyanka/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -46,6 +47,7 @@
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/Singh28priyanka/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Singh28priyanka/DSA/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Divide and Conquer
