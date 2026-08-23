@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Singh28priyanka/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Singh28priyanka/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Singh28priyanka/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Singh28priyanka/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -40,6 +41,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singh28priyanka/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Singh28priyanka/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Singh28priyanka/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -145,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Singh28priyanka/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Singh28priyanka/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
