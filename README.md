@@ -44,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/Singh28priyanka/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Singh28priyanka/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/Singh28priyanka/DSA/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/Singh28priyanka/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Singh28priyanka/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Singh28priyanka/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -73,6 +74,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Singh28priyanka/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Singh28priyanka/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Singh28priyanka/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@
 | [0066-plus-one](https://github.com/Singh28priyanka/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Singh28priyanka/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Singh28priyanka/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Singh28priyanka/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Singh28priyanka/DSA/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Binary Search
@@ -153,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Singh28priyanka/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Singh28priyanka/DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
